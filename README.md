@@ -1,5 +1,5 @@
 # LunathiM-dev
-Ready to get to know me😉
+> Warning: I write code like it's a cooking recipe- Sprinke in some functions, stir with Tailwind, and hope it doesn't crash. Bon Appétit!
 <h1 align="center">Hi there, I'm Lunathi 👋</h1>
 
 <p align="center">
