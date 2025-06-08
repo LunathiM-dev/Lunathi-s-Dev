@@ -56,8 +56,9 @@ Here are some of my favorite projects:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+## 📫 Let's Connect
+
 [![Email](https://img.shields.io/badge/Email-mkohlwalunathi@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mkohlwalunathi@gmail.com)
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lunathi%20Mkohlwa-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lunathi-mkohlwa)
 
 _Thanks for stopping by! ✨ Let's build something amazing together._ 🚀
