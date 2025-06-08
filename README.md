@@ -1,4 +1,4 @@
-# Lunathi-s-Dev
+# LunathiM-dev
 Ready to get to know me😉
 <h1 align="center">Hi there, I'm Lunathi 👋</h1>
 
