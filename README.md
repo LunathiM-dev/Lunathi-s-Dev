@@ -28,7 +28,7 @@
 - 🎯 Goal: Work at Amazon or OfferZen as a Front-End Developer
 - 🧠 Currently learning: React, Git/GitHub, and advanced CSS animations
 - 💼 Open to internships, freelance work, and mentorship
-- 🧩 Fun fact: I love combining creativity and code — from clean UI layouts to animated transitions!
+- 🧩 Fun fact: I love combining creativity and code — from clean UI layouts to animated transition!
 
 ---
 
