@@ -2,6 +2,15 @@
 > Warning: I write code like it's a cooking recipe- Sprinke in some functions, stir with Tailwind, and hope it doesn't crash. Bon Appétit!
 <h1 align="center">Hi there, I'm Lunathi 👋</h1>
 
+
+
+
+![Lunathi](https://github.com/user-attachments/assets/511e1093-1e88-4d66-a34e-3819cea78dd0)
+
+
+
+
+
 <p align="center">
   💻 Aspiring Front-End Developer | UI/UX Enthusiast <br>
   🎓 Currently studying at <strong>CodeSpace</strong> in Cape Town <br>
